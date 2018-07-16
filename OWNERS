@@ -1,9 +1,8 @@
 approvers:
-- piccobit
-- hdstich
 - ursus-minor
 
 reviewers:
 - piccobit
 - hdstich
-- ursus-minor
+- asbach
+- qwc
