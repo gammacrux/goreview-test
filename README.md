@@ -4,3 +4,4 @@ Test #20
 
 Dummy text
 feature1
+feature2
