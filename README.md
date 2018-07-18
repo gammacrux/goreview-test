@@ -1,7 +1,4 @@
 # prow-test
 
-Test #20
+Test #21
 
-Dummy text
-feature1
-feature2
